@@ -1,5 +1,6 @@
 # Colab
 
-Google ColabへのSSH接続を提供するノートブック
+Google Colabの環境構築を自動化するノートブック
 
-- [cloudflared.ipynb](https://colab.research.google.com/github/hayatoshibahara/colab/blob/main/cloudflared.ipynb)
+- [Root User](https://colab.research.google.com/github/hayatoshibahara/colab/blob/main/root_user.ipynb)
+- [Normal User](https://colab.research.google.com/github/hayatoshibahara/colab/blob/main/normal_user.ipynb)
